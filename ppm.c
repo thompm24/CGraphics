@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
+#include "3d.c"
+
 
 #define WIDTH 800
 #define HEIGHT 800
